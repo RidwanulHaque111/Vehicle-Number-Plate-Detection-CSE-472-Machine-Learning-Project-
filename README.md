@@ -50,3 +50,11 @@ If you find the work of any specific individual or organization particularly hel
 ## License
 This project is licensed under the MIT License.
 
+## Sample Result and Output
+Sample images output :
+
+![Output1](https://github.com/RidwanulHaque111/Vehicle-Number-Plate-Detection-CSE-472-Machine-Learning-Project-/blob/61a695e488754aaba2e5a6e8509fa799e3e59d40/output%20example/output1.JPG)
+
+![Output2](https://github.com/RidwanulHaque111/Vehicle-Number-Plate-Detection-CSE-472-Machine-Learning-Project-/blob/61a695e488754aaba2e5a6e8509fa799e3e59d40/output%20example/output2.JPG)
+
+![Output3](https://github.com/RidwanulHaque111/Vehicle-Number-Plate-Detection-CSE-472-Machine-Learning-Project-/blob/61a695e488754aaba2e5a6e8509fa799e3e59d40/output%20example/output3.JPG)
