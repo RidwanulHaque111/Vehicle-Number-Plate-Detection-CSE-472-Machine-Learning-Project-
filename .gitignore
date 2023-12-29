@@ -1,0 +1,7 @@
+#Folders
+dataset/
+yolov5/
+
+#File Extensions
+*.exe
+*.csv
