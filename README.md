@@ -14,6 +14,8 @@ The script utilizes the YOLO model for object detection and Tesseract for OCR. I
 - Visualize the results with bounding boxes and extracted text.
 - Both OCR and PYTESSERACT results are shown.
 
+See the full Kaggle project here : [Number Plate Recognition by Ridwanul Haque] (https://www.kaggle.com/code/bigchungushocuspocus/number-plate-recognition-ridwanul-haque)
+
 ## Dependencies
 
 Make sure to install the required dependencies before running the script:
@@ -38,6 +40,8 @@ python number_plate_detection.py path/to/your/image.jpg
 - Tune the script for potential modifications or improvements.
 
 ## Acknowledgments
+
+- 
 
 - Optical Character Recognition (OCR) functionality is powered by the [easyocr](https://github.com/JaidedAI/EasyOCR) library. EasyOCR provides an easy-to-use interface for OCR tasks.
 
